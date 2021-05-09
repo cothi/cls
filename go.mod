@@ -1,5 +1,3 @@
-module cli
+module github.com/woongdev/Color-List-Show
 
 go 1.16
-
-require github.com/fatih/color v1.10.0 // indirect
