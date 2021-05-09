@@ -34,6 +34,8 @@ cls -f <string>
 cls -l <Location> -f <string>
 ```
 
+<br><br>
+## License
+The MIT License (MIT)
 
-## Contributors
-
+Copyright (c) 2013-2021 wooongdev
