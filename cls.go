@@ -8,7 +8,7 @@ import (
 	"log"
 	"strconv"
 	"sync"
-	"github.com/wooongdev/Color-List-Show/color"
+	"github.com/wooongdev/cls-Color-List-Show/color"
   "unicode/utf8"
 )
 
