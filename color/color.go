@@ -1,5 +1,4 @@
 package color
-// http://play.golang.org/p/jZ5pa944O1 <- will not display the colors
 import "fmt"
 
 const (
