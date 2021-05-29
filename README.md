@@ -16,6 +16,19 @@ File list displayed in color
 
 <br><br>
 
+## INSTALLATION
+
+
+```
+go get insatll github.com/wooongdev/cls
+```
+<br><br>
+
+
+
+
+
+
 ## Option
 
 
