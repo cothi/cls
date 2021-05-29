@@ -37,7 +37,7 @@ go get insatll github.com/wooongdev/cls
 
 ```shell
 # Show current directory files.
-csl
+cls
 
 # Displays files in the specified directory location.
 cls -l <Location>
